@@ -1,0 +1,4 @@
+Major
+Minor
+Challenger
+Prospect
